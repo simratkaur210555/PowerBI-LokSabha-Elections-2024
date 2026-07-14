@@ -1,4 +1,4 @@
-# 🇮🇳 Lok Sabha Elections 2024 Dashboard
+# Lok Sabha Elections 2024 Dashboard
 
 An interactive Power BI dashboard transforming India's 2024 General Election data into meaningful insights through dynamic KPIs, constituency-level analysis, state-wise trends, geospatial visualizations, and custom tooltips.
 
